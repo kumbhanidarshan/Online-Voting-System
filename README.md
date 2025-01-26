@@ -10,7 +10,6 @@ Voting Success Page: After successfully voting, users are redirected to a confir
 #Screenshorts:
 ![Voting-Page](https://github.com/user-attachments/assets/9d0942b2-8ac5-4ec5-9bfa-8a5e3d2179f6)
 
-![Uploading Login-Page.png…]()
 
 
 
